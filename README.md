@@ -1,7 +1,6 @@
-### Hi there 👋  I am Ta-Dah!!
+# Ta-dah! A bilingual engineer creating 3D immersive and interactive experiences. 
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on games, interactive media, and more!
 - 🌱 I’m currently learning Unity, Unreal Engine, C#, C++, Blender, and a lot more!
 - 👯 I’m looking to collaborate on games, and interactive contents.
